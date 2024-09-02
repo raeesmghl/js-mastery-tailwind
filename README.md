@@ -1,3 +1,3 @@
 ## JavaScript Mastery tailwind project
 
-## Ecommerce (shoes) website ui
+## Ecommerce (shoes) website UI (using Tailwind)
